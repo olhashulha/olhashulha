@@ -5,7 +5,7 @@ validation, verification and uncertainty analysis. I turn messy data into
 clear, reliable insights.
 
 ## 🛠️ Skills
-- **SQL:** PostgreSQL, CTEs, window functions, views, functions
+- **SQL:** PostgreSQL, BigQery, CTEs, window functions, views, functions
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
 - **BI:** Power BI (Power Query, DAX), Tableau
 - **Data work:** cleaning, validation, outlier handling, EDA, visualization
